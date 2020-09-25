@@ -2,7 +2,7 @@
 
 ## Part 1: Conceptual questions
 1. Why do our applications need databases?
-1. What is SQL?
+2. What is SQL?
 3. What is a relational vs. non-relational database?
 
 ## Part 2: Coding Challenge - Building the DB and making some queries
